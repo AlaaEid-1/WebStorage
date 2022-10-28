@@ -1,0 +1,77 @@
+/* css code for retrive file */
+
+
+.heading {
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1.5rem;
+    font-family: "Segoe Print";
+    text-decoration: underline;
+    font-size: 3rem;
+    /* text-transform: uppercase; */
+    color: #15151594;
+    margin-bottom: 1rem;
+    margin-top: 0.5rem;
+}
+
+table {
+    font-family: "Segoe Print";
+    margin-top:20rem;
+    margin-left: 50rem;
+    margin-right: 60rem;
+    position: absolute;
+    width: 650px;
+    padding: 30px;
+    transform: translate(-50%, -50%);
+    background: rgba(36, 63, 88, 0.13);
+    box-sizing: content-box;
+    box-shadow: 0 15px 25px rgb(0 0 0 / 77%);
+    border-radius: 19px;
+    
+}
+
+.table_header {
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color :azure ;
+    text-shadow: #0b0b0bd8;
+    margin-left: 450px;
+}
+
+/* .profile_cell{
+    padding: 15px , 15px;
+} */
+
+.first_col , .last_col{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 5px , 5px;
+}
+
+.img_col{
+    align-items: center;
+    max-width: 80%; height: auto;
+    border-radius: 20px;
+    padding-top: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.edit_button , .delet_button{
+    font-size: 17px;
+    padding: 10px 12px;
+    font-family: Ink Free;
+    font-weight: bold;
+    border-radius: 12px;
+    display: inline-block;
+    background: linear-gradient(#e9e0dfb5 ,#b1679b);
+    text-decoration: none;
+    color: rgb(254 254 254);
+    box-shadow: 0 0 5px rgb(0 0 0 / 66%);
+    margin-right: 6px;
+    margin-left: 6px;
+}
+
