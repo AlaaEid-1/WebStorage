@@ -19,7 +19,7 @@
         <li><a href="dataview.php">View Data</a></li>
         <li><a href="search.php">Search</a></li>
         <li><a href="cashfile.php">memory cash</a></li>
-        <li><a href="cashs.php">memory cash detailes</a></li>
+        <li><a href="cashs.php">Detailes Memcashed </a></li>
         <li class="right"><a href="#about">Cloud Computing</a></li> 
       </ul>
     </div>

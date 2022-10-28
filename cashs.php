@@ -12,7 +12,7 @@
             <h2>cash memory</h2>
             <form class="empform" id="empform" action="" enctype="multipart/form-data">   
            <div> 
-            <label>capcity</label>
+            <label>capcity:</label>
             <input type="text" name="capcity" id="capcity" /> <br>
                    
 </div><br><br>
