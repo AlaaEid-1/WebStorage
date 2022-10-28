@@ -1,0 +1,125 @@
+/* css code for search file */
+
+
+
+.search_box{
+    position: absolute;
+    margin-top: 390px;
+    margin-bottom: 50px;
+    margin-left: 47rem;
+    width: 650px;
+    padding: 60px;
+    transform: translate(-50%, -50%);
+    background: rgba(57, 50, 64, 0.396);
+    box-sizing: content-box;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.703);
+    border-radius: 12px;
+}
+
+/* .search_box p{
+    text-align: center;
+    padding-top: .1rem;
+    padding-bottom: 1rem;
+    font-family: "Segoe Print";
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 2rem;
+    color: #15151594;
+    margin-bottom: 1rem;
+    margin-top: .1rem;
+} */
+
+
+.search_input{
+    width: 60%;
+    padding: 11px 0;
+    font-size: 16px;
+    color: rgb(255, 251, 251);
+    font-weight: bold;
+    font-family: "Ink Free";
+    margin-bottom: 30px;
+    margin-bottom: 10px;
+    padding: 10px 10px;
+    border: none;
+    /* border-bottom: 1px solid #fff; */
+    outline: none;
+    background: rgba(255, 255, 255, 0.203);
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.search_box button{
+    font-size: 17px;
+    padding: 10px 12px;
+    font-family: "Segoe Script";
+    letter-spacing: 1px;
+    font-weight: bold;
+    border-radius: 12px;
+    border: none;
+    display: inline-block;
+    background: linear-gradient(#e9e0dfb5 ,#b1679b);
+    text-decoration: none;
+    color: rgb(254 254 254);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.674);
+    padding: 8px 8px;
+    margin-right: 6px;
+    margin-left: 6px;
+    margin-bottom: 40px
+}
+
+
+.search_box table{
+    font-family: "Segoe Print";
+    position: static;
+    width: 500px;
+    padding-left: 50px;
+    box-sizing: border-box;
+    border-radius: 19px;
+}
+
+
+.table_header{
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color :azure ;
+    text-shadow: #0b0b0bd8;
+    font-family: "Segoe Print";
+    padding: 30px;
+
+}
+
+.line {
+    margin-top: 5px;
+    width: 500px;
+    background: linear-gradient(
+      to bottom,
+      transparent 2px,
+      rgb(255, 255, 255) 2px,
+      black 3px,
+      transparent 3px
+    );
+    
+
+}
+
+.search_box table td{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 5px , 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

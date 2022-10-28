@@ -1,0 +1,104 @@
+/* css code for navbar */
+
+html {
+    height: 100%;
+    margin:0;
+    padding:0;
+    background-image: linear-gradient(to right, #e9e0df, #b06eca);
+  
+  }
+  
+  body {
+    margin:0;
+    padding:0;
+    background-image: linear-gradient(to right, #e9e0df, #b06eca);
+    height: 100%
+    
+  }
+
+  .topnav{
+    position: sticky ;
+  }
+
+  .topnav{
+    position: sticky;
+  }
+
+  .btn,
+  .option-btn,
+  .delete-btn{
+     display: block;
+     width: 100%;
+     text-align: center;
+     background-color:#08080891;
+     color:var(--white);
+     font-size: 2.5rem;
+     font-family: "Rockwell";
+     padding:1.2rem 3rem;
+     border-radius: 1rem;
+     cursor: pointer;
+     margin-top: 1rem;
+     
+     
+  }
+  
+  .btn:hover,
+  .option-btn:hover,
+  .delete-btn:hover{
+     background-color:rgb(142, 83, 142);
+  }
+  
+  
+  ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow :hidden;
+    background: rgba(74, 18, 100, 0.539);
+  }
+  
+  ul.topnav li {
+    float: left;
+    padding-inline-start: 10px;
+  }
+  
+  ul.topnav li a {
+    display: block;
+    color: rgba(255, 255, 255, 0.909);
+    text-align: center;
+    padding: 10px 18px;
+    text-decoration: none;
+    font-family: Segoe Print;
+    font-weight: bold ;
+    font-size: 18px;
+    
+  
+  }
+  
+  ul.topnav li a:hover:not(.active) {
+    background: #e1d1e0b0;
+    border-radius: 18px;
+  }
+  
+  
+  ul.topnav li.right {
+    float: right;
+    font-size: 18px;
+    color: #000000;
+    background: linear-gradient(#e9e0dfb5 ,#b1679b);
+    border-radius: 20px;
+    padding-right: 8px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-right: 10px;
+    pointer-events: none;
+    
+  
+  }
+  
+  @media screen and (max-width: 600px) {
+    ul.topnav li.right, 
+    ul.topnav li {
+      float: none;
+    }
+  }

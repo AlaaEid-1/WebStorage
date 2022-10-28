@@ -1,0 +1,108 @@
+/* css code for edit page */
+
+.right_box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 650px;
+    padding-left: 50px ;
+    padding-top: 20px; padding-bottom: 20px;
+    transform: translate(-50%, -50%);
+    background: hsla(209, 42%, 24%, 0.396);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6);
+    border-radius: 12px;
+    text-align: center;
+    margin-top: 15px;
+    }
+
+    /* .right{
+        visibility:hidden;
+    } */
+
+    .update-status{
+        width: 60%;
+        padding: 11px 0;
+        font-size: 16px;
+        color: rgb(255, 251, 251);
+        font-weight: bold;
+        font-family: "Ink Free";
+        margin-bottom: 30px;
+        margin-bottom: 10px;
+        padding: 10px 10px;
+        border: none;
+        /* border-bottom: 1px solid #fff; */
+        outline: none;
+        background: rgba(255, 255, 255, 0.203);
+        border-radius: 20px;
+        cursor: pointer;
+
+
+    }
+
+
+    .editform{
+        width: 60%;
+        padding: 11px 0;
+        font-size: 20px;
+        color: rgb(255, 251, 251);
+        font-weight: bold;
+        font-family: "Ink Free";
+        margin-bottom: 30px;
+        margin-bottom: 10px;
+        padding: 10px 10px;
+        border: none;
+        outline: none;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+
+    .editform tr input{
+        width: 60%;
+        padding: 11px 0;
+        font-size: 16px;
+        color: rgb(255, 251, 251);
+        font-weight: bold;
+        font-family: "Ink Free";
+        margin-bottom: 30px;
+        margin-bottom: 10px;
+        padding: 10px 40px;
+        border: none;
+        /* border-bottom: 1px solid #fff; */
+        outline: none;
+        background: rgba(255, 255, 255, 0.203);
+        border-radius: 20px;
+        cursor: pointer;
+    }
+
+    .editform tr button{
+        font-size: 17px;
+        padding: 10px 12px;
+        font-family: "Segoe Script";
+        letter-spacing: 1px;
+        font-weight: bold;
+        border-radius: 12px;
+        border: none;
+        display: inline-block;
+        background: linear-gradient(#e9e0dfb5 ,#b1679b);
+        text-decoration: none;
+        color: rgb(254 254 254);
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.674);
+        margin-right: 6px;
+        margin-left: 6px;
+    }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
