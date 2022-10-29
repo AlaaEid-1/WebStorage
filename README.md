@@ -15,3 +15,6 @@ Here the name is entered, and the name is not repeated, then the image is entere
 
 4-	The fourth page is the memory cash page, and the size capacity of cash is displayed, and the hit and miss page is displayed.
 
+![12](https://user-images.githubusercontent.com/61549252/198834341-12d07678-f600-4205-8c68-2f0727e14162.jpg)
+![123](https://user-images.githubusercontent.com/61549252/198834351-ffb77658-16d4-49fa-87e9-144c2abd3c2d.jpg)
+![32165](https://user-images.githubusercontent.com/61549252/198834356-b9b72103-6720-4067-9d89-efb37c106b6f.jpg)
